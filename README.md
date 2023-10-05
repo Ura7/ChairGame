@@ -14,5 +14,5 @@ Jumping Animation by [Nazlican1](https://github.com/Nazlican1)
 Character & Chair Design by [Nazlican1](https://github.com/Nazlican1)
 
 
-![karakter tasarımı](https://github.com/Ura7/ChairGame/assets/125034953/a8ad207d-7b46-459f-b0d0-eed841eb525d)
-![merusu sandalye1](https://github.com/Ura7/ChairGame/assets/125034953/8d233988-47ac-4a94-bef1-3701195cf2e5)
+
+![karakter- sandalye tasarımı](https://github.com/Ura7/ChairGame/assets/125034953/5fecea3e-557b-4d08-84a4-eac37a0ec135)
